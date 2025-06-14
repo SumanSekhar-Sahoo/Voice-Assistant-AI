@@ -33,6 +33,15 @@ Chiku1.0 is a Python-based desktop voice assistant that listens to your commands
 
 ![Chiku 1 0](https://github.com/user-attachments/assets/ec34e7f7-ed7e-4a9d-b821-11f225948f6a)
 
+---
+
+
+## 🔗 LinkedIn Post
+
+📢 **See Chiku in action on LinkedIn:**
+🔗 [View Post](https://www.linkedin.com/posts/sumansekhar-sahoo_python-ai-voiceassistant-activity-7339740746662453248-o804?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbWbFkBBD_ckmIB0-Z1ZAk25yadMwBisI0)
+
+
 
 ---
 
